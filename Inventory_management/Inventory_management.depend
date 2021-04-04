@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1495693482 source:c:\users\user\documents\c++\assignment 2\inventory_management\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	"Restaurant.h"
+	"employee.h"
+	"supplier.h"
+
+1495271421 source:c:\users\user\documents\c++\assignment 2\inventory_management\src\restaurant.cpp
+	"Restaurant.h"
+	<iostream>
+	<cstdlib>
+
+1495266594 c:\users\user\documents\c++\assignment 2\inventory_management\include\restaurant.h
+	<string>
+
+1495678421 c:\users\user\documents\c++\assignment 2\inventory_management\include\employee.h
+	<string>
+
+1495679970 source:c:\users\user\documents\c++\assignment 2\inventory_management\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1495680922 source:c:\users\user\documents\c++\assignment 2\inventory_management\src\supplier.cpp
+	"supplier.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1495680498 c:\users\user\documents\c++\assignment 2\inventory_management\include\supplier.h
+	<string>
+
