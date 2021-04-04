@@ -1,0 +1,270 @@
+# depslib dependency file v1.0
+1488293925 source:f:\tuto1\src\course.cpp
+	"course.h"
+	<iostream>
+
+1488294731 f:\tuto1\include\course.h
+	<iostream>
+	<string.h>
+
+1488248820 source:f:\tuto1\src\lecturer.cpp
+	"lecturer.h"
+	<iostream>
+
+1488248787 f:\tuto1\include\lecturer.h
+	<iostream>
+
+1488294731 source:f:\tuto1\main.cpp
+	<iostream>
+	<string.h>
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	"core.h"
+
+1488292984 f:\tuto1\include\student.h
+	<iostream>
+
+1488293050 source:f:\tuto1\src\student.cpp
+	"student.h"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1488248820 f:\tuto1\include\core.h
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488169046 source:e:\tuto1\main.cpp
+	<iostream>
+	<string.h>
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	"core.h"
+
+1488165719 e:\tuto1\include\course.h
+	<iostream>
+	<string.h>
+
+1488248787 e:\tuto1\include\lecturer.h
+	<iostream>
+
+1488123057 e:\tuto1\include\student.h
+	<iostream>
+
+1488248820 e:\tuto1\include\core.h
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488248721 source:e:\tuto1\src\core.cpp
+	"core.h"
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488165943 source:e:\tuto1\src\course.cpp
+	"course.h"
+	<iostream>
+
+1488167708 source:e:\tuto1\src\student.cpp
+	"student.h"
+	<iostream>
+
+1488294094 source:f:\tuto1\src\core.cpp
+	"core.h"
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+	<string>
+
+1488294731 source:g:\tuto_0\main.cpp
+	<iostream>
+	<string.h>
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	"core.h"
+
+1488768745 g:\tuto_0\include\course.h
+	<iostream>
+	<string.h>
+
+1488248787 g:\tuto_0\include\lecturer.h
+	<iostream>
+
+1488292984 g:\tuto_0\include\student.h
+	<iostream>
+
+1488248820 g:\tuto_0\include\core.h
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488294094 source:g:\tuto_0\src\core.cpp
+	"core.h"
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+	<string>
+
+1488248820 source:g:\tuto_0\src\lecturer.cpp
+	"lecturer.h"
+	<iostream>
+
+1488293050 source:g:\tuto_0\src\student.cpp
+	"student.h"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1488768745 source:g:\tuto_0\src\course.cpp
+	"course.h"
+	<iostream>
+
+1488294731 source:f:\tuto_0\main.cpp
+	<iostream>
+	<string.h>
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	"core.h"
+
+1488768745 f:\tuto_0\include\course.h
+	<iostream>
+	<string.h>
+
+1488248787 f:\tuto_0\include\lecturer.h
+	<iostream>
+
+1488292984 f:\tuto_0\include\student.h
+	<iostream>
+
+1488248820 f:\tuto_0\include\core.h
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488768745 source:f:\tuto_0\src\course.cpp
+	"course.h"
+	<iostream>
+
+1488248820 source:f:\tuto_0\src\lecturer.cpp
+	"lecturer.h"
+	<iostream>
+
+1488293050 source:f:\tuto_0\src\student.cpp
+	"student.h"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1488769143 source:f:\tuto_0\src\core.cpp
+	"core.h"
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+	<string>
+
+1488294731 source:c:\users\user\documents\tuto_0\main.cpp
+	<iostream>
+	<string.h>
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	"core.h"
+
+1488768745 c:\users\user\documents\tuto_0\include\course.h
+	<iostream>
+	<string.h>
+
+1488248787 c:\users\user\documents\tuto_0\include\lecturer.h
+	<iostream>
+
+1488292984 c:\users\user\documents\tuto_0\include\student.h
+	<iostream>
+
+1488248820 c:\users\user\documents\tuto_0\include\core.h
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488769143 source:c:\users\user\documents\tuto_0\src\core.cpp
+	"core.h"
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+	<string>
+
+1488768745 source:c:\users\user\documents\tuto_0\src\course.cpp
+	"course.h"
+	<iostream>
+
+1488248820 source:c:\users\user\documents\tuto_0\src\lecturer.cpp
+	"lecturer.h"
+	<iostream>
+
+1488293050 source:c:\users\user\documents\tuto_0\src\student.cpp
+	"student.h"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1488294731 source:c:\users\user\documents\c++\member\tuto_0\main.cpp
+	<iostream>
+	<string.h>
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	"core.h"
+
+1488768745 c:\users\user\documents\c++\member\tuto_0\include\course.h
+	<iostream>
+	<string.h>
+
+1488248787 c:\users\user\documents\c++\member\tuto_0\include\lecturer.h
+	<iostream>
+
+1488292984 c:\users\user\documents\c++\member\tuto_0\include\student.h
+	<iostream>
+
+1488248820 c:\users\user\documents\c++\member\tuto_0\include\core.h
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+
+1488769143 source:c:\users\user\documents\c++\member\tuto_0\src\core.cpp
+	"core.h"
+	"course.h"
+	"lecturer.h"
+	"student.h"
+	<iostream>
+	<string>
+
+1488768745 source:c:\users\user\documents\c++\member\tuto_0\src\course.cpp
+	"course.h"
+	<iostream>
+
+1488248820 source:c:\users\user\documents\c++\member\tuto_0\src\lecturer.cpp
+	"lecturer.h"
+	<iostream>
+
+1488293050 source:c:\users\user\documents\c++\member\tuto_0\src\student.cpp
+	"student.h"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
