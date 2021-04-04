@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1489974421 source:c:\users\user\documents\c++\member\tuto1 q2\billing.cpp
+	"Billing.h"
+	<string>
+
+1489974422 c:\users\user\documents\c++\member\tuto1 q2\billing.h
+	<string>
+	"Patient.h"
+	"Doctor.h"
+
+1489974430 c:\users\user\documents\c++\member\tuto1 q2\patient.h
+	<string>
+	"Person.h"
+	"Doctor.h"
+
+1489974434 c:\users\user\documents\c++\member\tuto1 q2\person.h
+	<string>
+
+1489974425 c:\users\user\documents\c++\member\tuto1 q2\doctor.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1489974423 source:c:\users\user\documents\c++\member\tuto1 q2\doctor.cpp
+	"Doctor.h"
+	<string>
+	<iostream>
+
+1491865839 source:c:\users\user\documents\c++\member\tuto1 q2\main.cpp
+	<iostream>
+	<string>
+	"Person.h"
+	"Patient.h"
+	"Doctor.h"
+	"Billing.h"
+
+1489974428 source:c:\users\user\documents\c++\member\tuto1 q2\patient.cpp
+	"Patient.h"
+	<string>
+
+1489974432 source:c:\users\user\documents\c++\member\tuto1 q2\person.cpp
+	"Person.h"
+	<string>
+

@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1492696118 source:c:\users\user\documents\c++\member\tuto1 q1\email.cpp
+	"Email.h"
+	<string>
+	"Person.h"
+	"Text.h"
+	<iostream>
+
+1492696118 c:\users\user\documents\c++\member\tuto1 q1\email.h
+	<string>
+	"Person.h"
+	"Text.h"
+	<iostream>
+
+1492696126 c:\users\user\documents\c++\member\tuto1 q1\person.h
+	<string>
+
+1492696129 c:\users\user\documents\c++\member\tuto1 q1\text.h
+	<string>
+
+1492696121 source:c:\users\user\documents\c++\member\tuto1 q1\file.cpp
+	"File.h"
+	<string>
+	"Person.h"
+	"Text.h"
+	<iostream>
+
+1492696122 c:\users\user\documents\c++\member\tuto1 q1\file.h
+	<string>
+	"Text.h"
+	"Person.h"
+
+1492696234 source:c:\users\user\documents\c++\member\tuto1 q1\main.cpp
+	"Email.h"
+	<string>
+	"Person.h"
+	"Text.h"
+	<iostream>
+	"File.h"
+
+1492696125 source:c:\users\user\documents\c++\member\tuto1 q1\person.cpp
+	"Person.h"
+	<string>
+
+1492696127 source:c:\users\user\documents\c++\member\tuto1 q1\text.cpp
+	"Text.h"
+	<string>
+
