@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1492696818 source:c:\users\user\documents\c++\member\tuto2 q2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"Mouse.h"
+	"Snake.h"
+
+1492696678 c:\users\user\documents\c++\member\tuto2 q2\mouse.h
+	<iostream>
+
+1492696684 c:\users\user\documents\c++\member\tuto2 q2\snake.h
+	<iostream>
+
+1492696680 source:c:\users\user\documents\c++\member\tuto2 q2\mouse.cpp
+	"Mouse.h"
+	<iostream>
+
+1492696676 source:c:\users\user\documents\c++\member\tuto2 q2\snake.cpp
+	"Snake.h"
+	<iostream>
+

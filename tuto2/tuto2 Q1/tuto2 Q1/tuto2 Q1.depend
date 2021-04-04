@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1492696396 source:c:\users\user\documents\c++\member\tuto2 q1\main.cpp
+	<iostream>
+	"truck.h"
+	"person.h"
+	"vehicle.h"
+
+1492696398 c:\users\user\documents\c++\member\tuto2 q1\truck.h
+	"vehicle.h"
+
+1492696402 c:\users\user\documents\c++\member\tuto2 q1\vehicle.h
+	"person.h"
+	<iostream>
+	<string>
+
+1492696397 c:\users\user\documents\c++\member\tuto2 q1\person.h
+	<iostream>
+	<string>
+
+1492696396 source:c:\users\user\documents\c++\member\tuto2 q1\person.cpp
+	"person.h"
+
+1492696397 source:c:\users\user\documents\c++\member\tuto2 q1\truck.cpp
+	"truck.h"
+	<iostream>
+
+1492696400 source:c:\users\user\documents\c++\member\tuto2 q1\vehicle.cpp
+	"vehicle.h"
+

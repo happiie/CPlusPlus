@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1492696613 source:c:\users\user\documents\c++\member\tuto2 q2 ans\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Mouse.h"
+	"Snake.h"
+	"Organism.h"
+
+1492696617 c:\users\user\documents\c++\member\tuto2 q2 ans\mouse.h
+	"Organism.h"
+	<iostream>
+	<stdlib.h>
+
+1492696623 c:\users\user\documents\c++\member\tuto2 q2 ans\organism.h
+	<iostream>
+
+1492696628 c:\users\user\documents\c++\member\tuto2 q2 ans\snake.h
+	<iostream>
+	<stdlib.h>
+	"Organism.h"
+
+1492696614 source:c:\users\user\documents\c++\member\tuto2 q2 ans\mouse.cpp
+	"Mouse.h"
+
+1492696621 source:c:\users\user\documents\c++\member\tuto2 q2 ans\organism.cpp
+	"Organism.h"
+
+1492696624 source:c:\users\user\documents\c++\member\tuto2 q2 ans\snake.cpp
+	"Snake.h"
+
