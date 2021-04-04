@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1492064850 source:c:\users\user\documents\c++\assignment\latest\main.cpp
+	<iostream>
+	<stdlib.h>
+	"owner.h"
+	"itemlist.h"
+	"payment.h"
+
+1492068844 c:\users\user\documents\c++\assignment\latest\owner.h
+	"product.h"
+
+1492064850 c:\users\user\documents\c++\assignment\latest\product.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1492064850 c:\users\user\documents\c++\assignment\latest\itemlist.h
+	<string>
+	<iostream>
+
+1492064850 c:\users\user\documents\c++\assignment\latest\payment.h
+	"registerID.h"
+
+1492064850 c:\users\user\documents\c++\assignment\latest\registerid.h
+	<iostream>
+	<string>
+
