@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1489726621 source:c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"World.h"
+
+1489725058 source:c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\organism.cpp
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489725148 c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\organism.h
+
+1489726210 c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\snake.h
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489726118 c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\mouse.h
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489726577 source:c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\mouse.cpp
+	"Mouse.h"
+
+1489726577 source:c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\snake.cpp
+	"Snake.h"
+
+1489723713 c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\world.h
+	"Organism.h"
+
+1489726342 source:c:\users\tc\desktop\20162017s2\kie1008\codes\tutorials\chapter02\q02_01\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"World.h"
+	"Snake.h"
+	"Mouse.h"
+
+1489901606 source:c:\users\cco\desktop\q02_01_modify\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"World.h"
+
+1489901802 c:\users\cco\desktop\q02_01_modify\world.h
+	"Organism.h"
+
+1489900028 c:\users\cco\desktop\q02_01_modify\organism.h
+
+1489901005 source:c:\users\cco\desktop\q02_01_modify\mouse.cpp
+	"Mouse.h"
+
+1489726118 c:\users\cco\desktop\q02_01_modify\mouse.h
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489901022 source:c:\users\cco\desktop\q02_01_modify\organism.cpp
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489901039 source:c:\users\cco\desktop\q02_01_modify\snake.cpp
+	"Snake.h"
+
+1489726210 c:\users\cco\desktop\q02_01_modify\snake.h
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489927986 source:c:\users\cco\desktop\q02_01_modify\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"World.h"
+	"Snake.h"
+	"Mouse.h"
+
+1489901606 source:c:\users\user\documents\c++\lec example\q02_01_modify\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	"World.h"
+
+1489901802 c:\users\user\documents\c++\lec example\q02_01_modify\world.h
+	"Organism.h"
+
+1489900028 c:\users\user\documents\c++\lec example\q02_01_modify\organism.h
+
+1489901005 source:c:\users\user\documents\c++\lec example\q02_01_modify\mouse.cpp
+	"Mouse.h"
+
+1489726118 c:\users\user\documents\c++\lec example\q02_01_modify\mouse.h
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489901022 source:c:\users\user\documents\c++\lec example\q02_01_modify\organism.cpp
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489928324 source:c:\users\user\documents\c++\lec example\q02_01_modify\snake.cpp
+	"Snake.h"
+
+1489726210 c:\users\user\documents\c++\lec example\q02_01_modify\snake.h
+	<iostream>
+	"Organism.h"
+	"World.h"
+
+1489927986 source:c:\users\user\documents\c++\lec example\q02_01_modify\world.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"World.h"
+	"Snake.h"
+	"Mouse.h"
+

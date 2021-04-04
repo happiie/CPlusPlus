@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1487949112 source:c:\users\user\documents\c++\lec example\date\main.cpp
+	<iostream>
+	"date.h"
+	"person.h"
+
+1487947426 c:\users\user\documents\c++\lec example\date\include\date.h
+
+1487947296 source:c:\users\user\documents\c++\lec example\date\src\date.cpp
+	"date.h"
+	<iostream>
+
+1487948649 c:\users\user\documents\c++\lec example\date\include\person.h
+	"date.h"
+	<string>
+
+1487948716 source:c:\users\user\documents\c++\lec example\date\src\person.cpp
+	"person.h"
+	"date.h"
+	<iostream>
+

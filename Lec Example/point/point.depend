@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1488860722 source:c:\users\student\desktop\new folder\point\main.cpp
+	<iostream>
+	"point.h"
+
+1488860688 c:\users\student\desktop\new folder\point\include\point.h
+	<iostream>
+
+1488860688 source:c:\users\student\desktop\new folder\point\src\point.cpp
+	"point.h"
+	<iostream>
+
+1488860722 source:c:\users\user\documents\c++\member\point\main.cpp
+	<iostream>
+	"point.h"
+
+1488860688 c:\users\user\documents\c++\member\point\include\point.h
+	<iostream>
+
+1488860851 source:c:\users\user\documents\c++\member\point\src\point.cpp
+	"point.h"
+	<iostream>
+

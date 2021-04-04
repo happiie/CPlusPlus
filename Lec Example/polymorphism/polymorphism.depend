@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\student\desktop\polymorphism\main.cpp
+	<iostream>
+
+1489460514 source:c:\users\student\desktop\polymorphism\src\class1.cpp
+	"Class1.h"
+	<iostream>
+
+1489460412 c:\users\student\desktop\polymorphism\include\class1.h
+
+1489460974 source:c:\users\student\desktop\polymorphism\src\class2.cpp
+	"Class2.h"
+	<iostream>
+
+1489460967 c:\users\student\desktop\polymorphism\include\class2.h
+	"Class1.h"
+
+1489494198 source:f:\polymorphism\main.cpp
+	<iostream>
+	"Class1.h"
+	"Class2.h"
+	"Class4.h"
+
+1489494286 source:f:\polymorphism\src\class1.cpp
+	"Class1.h"
+	<iostream>
+
+1489460414 f:\polymorphism\include\class1.h
+
+1489494286 source:f:\polymorphism\src\class2.cpp
+	"Class2.h"
+	<iostream>
+
+1489460968 f:\polymorphism\include\class2.h
+	"Class1.h"
+
+1489494334 source:f:\polymorphism\src\class4.cpp
+	"Class4.h"
+	<iostream>
+
+1489493794 f:\polymorphism\include\class4.h
+	"Class2.h"
+	"Class1.h"
+
